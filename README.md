@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/still-think-of-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Still Think Of You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/still-think-of-you/) |
+| **Get License** | [Commercial Licensing for Still Think Of You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/still-think-of-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I still taste the midnight on your skin
+> We were losing track of where we begin
+> Every time I close my heavy eyes
+> I fall right back into that perfect night
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
